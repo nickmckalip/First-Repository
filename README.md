@@ -1,2 +1,3 @@
 # First-Repository
-First One
+
+console.log('Hello World')
